@@ -1,5 +1,15 @@
 # Introduction
 
+Hi there! I'm Ye Cheng. When I started writing on [my blog](https://cyyapye.com), I mostly wrote about the lessons I learned from reading and running engineering teams. But, occasionally, I also wrote about personal stories. Then, I realized the content is easier to consume if I separate the lessons from my personal stories.
+
+Besides, I've always wanted to write a book no one wants to pay for. So, why not start now?
+
+My plan is to write the book live in the open. So, what you'll see is raw notes slowly transformed into readable content as chapters are written. I have a rough idea about the skeleton of the book. Over time I expect to fill out the [content](https://theengineeringhandbook.com/ch) with the topics I want to cover.
+
+
+
+
+
 {% hint style="info" %}
 **Good to know:** providing a brief overview of your product and its core use cases is a great place to start with product docs. Your product might seem obvious to you – you made it! However, to others, even folks who are trying your product after reading your site or getting a sales demo, it can still be unclear. This is your chance to clarify your product and set the right expectations!
 {% endhint %}
