@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Why a handbook?](why-a-handbook.md)
 
 ## Guides
 
