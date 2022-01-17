@@ -2,12 +2,13 @@
 
 * [Introduction](README.md)
 * [Why a handbook?](why-a-handbook.md)
+* [Start with you](start-with-you.md)
 
-## Guides
+## Managing
 
-* [Creating your first project](guides/creating-your-first-project.md)
-* [Creating your first task](guides/creating-your-first-task.md)
-* [Advanced permissions](guides/advanced-permissions.md)
+* [Giving feedback](managing/giving-feedback.md)
+* [Creating your first task](managing/creating-your-first-task.md)
+* [Advanced permissions](managing/advanced-permissions.md)
 
 ## Fundamentals
 
