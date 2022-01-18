@@ -81,7 +81,7 @@ don't judge. restate in your own words to gain clarity
 
 even mission serial killers believe their actions are justified. we are no exception. when robbed of the opportunity to tell our story, we too would reject other versions
 
-[Understanding Pragmatic Mission Killers](https://www.psychologytoday.com/us/blog/wicked-deeds/201809/understanding-pragmatic-mission-killers)
+{% embed url="https://www.psychologytoday.com/us/blog/wicked-deeds/201809/understanding-pragmatic-mission-killers" %}
 
 9/ hold back advice until asked
 
@@ -111,7 +111,7 @@ growth comes from change. change comes from actions. draw up the action items to
 
 you can change anything within your control if you will your mind to it. be the GOAT
 
-[https://twitter.com/rainmaker1973/status/1482709289399635975](https://twitter.com/rainmaker1973/status/1482709289399635975)
+{% embed url="https://twitter.com/rainmaker1973/status/1482709289399635975" %}
 
 12/ solicit feedback on your feedback
 
