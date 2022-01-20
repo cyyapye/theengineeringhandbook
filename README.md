@@ -18,8 +18,8 @@ Follow our handy guides to get started on the basics as quickly as possible:
 [giving-feedback.md](managing/giving-feedback.md)
 {% endcontent-ref %}
 
-{% content-ref url="managing/creating-your-first-task.md" %}
-[creating-your-first-task.md](managing/creating-your-first-task.md)
+{% content-ref url="managing/receiving-feedback.md" %}
+[receiving-feedback.md](managing/receiving-feedback.md)
 {% endcontent-ref %}
 
 {% content-ref url="managing/advanced-permissions.md" %}

@@ -7,7 +7,7 @@
 ## Managing
 
 * [Giving feedback](managing/giving-feedback.md)
-* [Creating your first task](managing/creating-your-first-task.md)
+* [Receiving feedback](managing/receiving-feedback.md)
 * [Advanced permissions](managing/advanced-permissions.md)
 
 ## Fundamentals
