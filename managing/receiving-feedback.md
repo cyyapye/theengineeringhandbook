@@ -1,6 +1,10 @@
 # Receiving feedback
 
-strap on your seatbelts. this is a deep, piercing thread
+receiving is always easier than giving, except when it comes to feedback
+
+somehow we seem to always get in our way
+
+buckle up. this is a deep, piercing thread on how to receive feedback
 
 
 
@@ -28,7 +32,7 @@ why do you so desperately need to be right?
 
 do you fear what others think of you?
 
-we have been conditioned to want praises ever since we were kids
+we have been conditioned to want praise ever since we were kids
 
 we live to satisfy others' expectations
 
@@ -130,9 +134,25 @@ if the feedback lacks specifics, ask clarifying open-ended questions, eg
 
 can you share some specifics? vs when did i do that?
 
-can you give me an example of that? vs&#x20;
+can you give me an example of that? vs are you sure that's what happened?
 
 avoid leading yes/no questions because the giver may say yes just to move on, eg if i do X, that'll be better, right?
+
+
+
+check your ego, emotions, and title at the door
+
+no matter how ridiculous the feedback may sound, there is some truth behind it
+
+the truth could tell you something about yourself or how you're perceived by the giver
+
+even if the perception is wrong, the fact remains that's how you're perceived
+
+but if it's a perception shared by many, there may be a growth opportunity
+
+you may choose to change to improve the perception or do nothing
+
+mess it up, you'll likely never get feedback again
 
 
 
@@ -146,25 +166,15 @@ the goal is to fill out the situation, behavior, impact yourself
 
 ask "did i get that right?"
 
+the best thing you can do when receiving feedback is to listen intently
+
+be genuinely curious and gather all the facts that'll help you discover the truth about yourself
 
 
 
+part 3: the transformation
 
-
-
-check you ego, leave the title at the door
-
-mess it up, you'll likely never get feedback again
-
-
-
-check your emotions
-
-no matter how ridiculous the feedback may sound, there is a truth hiding behind all that
-
-the truth could tell you something about yourself or how you're perceived by the giver
-
-even if the perception is wrong, the fact remains that's how you're perceived
+armed w facts gathered from the feedback, it's time to uncover the truth about yourself
 
 
 
@@ -172,37 +182,21 @@ seek the truth
 
 use 5-whys to debug the situation
 
-ask yourself why&#x20;
+why did you raise your voice at bruce?
+
+why were you angry?
+
+why did you want bruce to submit to you?
+
+why couldn't you get bruce to listen?
+
+why did you have to be right?
+
+the root causes will inform the necessary action items to effect change
 
 
 
-ask for feedback
-
-provide a template for better feedback
-
-
-
-share your feedback openly to precondition others about your reaction to feedback
-
-i once shared my feedback to the entire org in my weekly digest when i screwed up
-
-
-
-lead by example
-
-
-
-celebrate criticism
-
-this is the behavior you want to instill
-
-
-
-give to get
-
-give feedback well, see giving feedback thread
-
-
+chart your path to the new you
 
 create action items to change
 
@@ -210,13 +204,67 @@ make a commitment to the giver
 
 ask for help from the giver to hold you accountable
 
+share your feedback openly to precondition others about your reaction to feedback
+
+i once shared my feedback to the entire org in my weekly digest when i screwed up
+
 
 
 follow through
 
-make the change
+complete the action items you committed to
 
 this is the most important and rewarding part of receiving feedback
 
-this will change you, an upgraded you
+you will shed the old you and usher in the new you
+
+you are now the best version of yourself until the next feedback
+
+
+
+part 4: going back for more
+
+knowing how feedback can shape you can be intoxicating. hone your skills to get more feedback
+
+
+
+ask for feedback
+
+just like giving feedback, you have to get uncomfortable to get solid feedback
+
+avoid asking yes/no questions, eg "any feedback for me?"
+
+ask "where am i falling short?" and wait until you get constructive, high-signal feedback
+
+don't let the giver off easily w "oh, you did great! i loved your presentation"
+
+press on w "i'm sure there's something i can improve on"
+
+"i'm going to have to really think on it" is good. just keep your mouth shut
+
+the only way out of the uncomfortable silence is constructive, high-quality feedback
+
+
+
+give to get
+
+to build a feedback culture, lead by example
+
+practice giving feedback until it comes naturally
+
+if someone's holding back on feedback, it's an opportunity to give feedback
+
+this is how a culture is built – by instilling the behavior you want
+
+take a stand, and never waiver
+
+learn how to give feedback well
+
+
+
+
+
+
+
+
 
