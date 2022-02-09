@@ -122,7 +122,7 @@ you can disagree, just not in the heat of the moment
 
 you may change your opinion after you've had time to think on it
 
-if you still disagree, first ask, "i disagree w the feedback. i'm happy to explain why if you like"
+if you still disagree, first offer to explain, "i disagree w the feedback. i'm happy to explain why if you like"
 
 
 
@@ -132,9 +132,17 @@ most givers are not great at giving feedback
 
 if the feedback lacks specifics, ask clarifying open-ended questions
 
-can you share some specifics? vs when did i do that?
+can you share some specifics?
 
-can you give me an example of that? vs are you sure that's what happened?
+vs
+
+when did i do that?
+
+can you give me an example of that?
+
+vs
+
+are you sure that's what happened?
 
 avoid leading yes/no questions because the giver may say yes just to move on, eg if i do X, that'll be better, right?
 
@@ -169,6 +177,8 @@ ask "did i get that right?"
 the best thing you can do when receiving feedback is to listen intently
 
 be genuinely curious and gather all the facts that'll help you discover the truth about yourself
+
+
 
 part 3: the transformation
 
@@ -206,7 +216,7 @@ ask for help from the giver to hold you accountable
 
 share your feedback openly to precondition others about your reaction to feedback
 
-i once shared my feedback to the entire org in my weekly digest when i screwed up
+i once shared my feedback w the entire org in my weekly digest when i screwed up
 
 
 
