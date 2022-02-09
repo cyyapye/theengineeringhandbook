@@ -14,7 +14,7 @@ before you can receive feedback, you have to dig deep into yourself to assess if
 
 
 
-do you think you're right?
+1/ do you think you're right?
 
 the moment you do, you have entered into a power struggle
 
@@ -22,7 +22,7 @@ for you to be right, the opposing party must be wrong
 
 your focus has turned from the rightness of the assertion to who is right
 
-if you think you're right, you've given up all possibility for discourse
+if you think you're right, you've given up all possibilities for discourse
 
 because the case is closed. there's nothing else to debate
 
@@ -30,7 +30,7 @@ why do you so desperately need to be right?
 
 
 
-do you fear what others think of you?
+2/ do you fear what others think of you?
 
 we have been conditioned to want praise ever since we were kids
 
@@ -52,7 +52,7 @@ who is the ideal you? make that change now
 
 
 
-do you fear change?
+3/ do you fear change?
 
 we're funny creatures. we proclaim we welcome change for the better
 
@@ -68,7 +68,7 @@ but what if you didn't change? how will you ever be the best version of you?
 
 
 
-your past has no bearing on your future
+4/ your past has no bearing on your future
 
 every feedback is an opportunity to chart a new path for your future
 
@@ -94,15 +94,15 @@ once you have embraced change, you're ready for feedback
 
 
 
-don't judge the quality of the source, only the feedback
+5/ don't judge the quality of the source, only the feedback
 
-there are 3 paths a giver can choose to do w your feedback
+a giver has 3 paths to choose from
 
-1 - the path of least resistance for the giver is to simply do nothing
+1 - the path of least resistance is to simply do nothing
 
-2 - the worst path is the giver shares your feedback w everyone but you
+2 - the worst path is to share your feedback w everyone but you
 
-3 - the best and the hardest path is to give you the feedback
+3 - the best and hardest path is to give you the feedback
 
 why? could it be because a better you improves your interpersonal relationship?
 
@@ -112,7 +112,7 @@ yet the giver cares enough to get uncomfortable and risk your blow-up
 
 
 
-say thank you. disagree later
+6/ say thank you. disagree later
 
 thank you is to appreciate the giver for caring enough to take the risk and give you feedback
 
@@ -126,11 +126,11 @@ if you still disagree, first ask, "i disagree w the feedback. i'm happy to expla
 
 
 
-don't challenge the feedback
+7/ don't challenge the feedback
 
 most givers are not great at giving feedback
 
-if the feedback lacks specifics, ask clarifying open-ended questions, eg
+if the feedback lacks specifics, ask clarifying open-ended questions
 
 can you share some specifics? vs when did i do that?
 
@@ -140,7 +140,7 @@ avoid leading yes/no questions because the giver may say yes just to move on, eg
 
 
 
-check your ego, emotions, and title at the door
+8/ check your ego, emotions, and title at the door
 
 no matter how ridiculous the feedback may sound, there is some truth behind it
 
@@ -156,7 +156,7 @@ mess it up, you'll likely never get feedback again
 
 
 
-write it down
+9/ write it down
 
 take detailed notes so you can return to points that are unclear
 
@@ -170,15 +170,13 @@ the best thing you can do when receiving feedback is to listen intently
 
 be genuinely curious and gather all the facts that'll help you discover the truth about yourself
 
-
-
 part 3: the transformation
 
 armed w facts gathered from the feedback, it's time to uncover the truth about yourself
 
 
 
-seek the truth
+10/ seek the truth
 
 use 5-whys to debug the situation
 
@@ -194,9 +192,11 @@ why did you have to be right?
 
 the root causes will inform the necessary action items to effect change
 
+{% embed url="https://buffer.com/resources/5-whys-process" %}
 
 
-chart your path to the new you
+
+11/ chart your path to the new you
 
 create action items to change
 
@@ -210,7 +210,7 @@ i once shared my feedback to the entire org in my weekly digest when i screwed u
 
 
 
-follow through
+12/ follow through
 
 complete the action items you committed to
 
@@ -220,15 +220,13 @@ you will shed the old you and usher in the new you
 
 you are now the best version of yourself until the next feedback
 
-
-
 part 4: going back for more
 
 knowing how feedback can shape you can be intoxicating. hone your skills to get more feedback
 
 
 
-ask for feedback
+13/ ask for feedback
 
 just like giving feedback, you have to get uncomfortable to get solid feedback
 
@@ -236,9 +234,9 @@ avoid asking yes/no questions, eg "any feedback for me?"
 
 ask "where am i falling short?" and wait until you get constructive, high-signal feedback
 
-don't let the giver off easily w "oh, you did great! i loved your presentation"
+don't let the giver off easily w "oh, you did great!"
 
-press on w "i'm sure there's something i can improve on"
+press on w "there must be something i can improve on"
 
 "i'm going to have to really think on it" is good. just keep your mouth shut
 
@@ -246,7 +244,7 @@ the only way out of the uncomfortable silence is constructive, high-quality feed
 
 
 
-give to get
+14/ give to get
 
 to build a feedback culture, lead by example
 
@@ -258,13 +256,5 @@ this is how a culture is built – by instilling the behavior you want
 
 take a stand, and never waiver
 
-learn how to give feedback well
-
-
-
-
-
-
-
-
+[learn how to give feedback well](giving-feedback.md)
 
