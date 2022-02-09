@@ -90,7 +90,7 @@ the v2 of you is the current best version of you until you choose to upgrade aga
 
 part 2: receiving feedback
 
-once you have embraced change, you're ready for feedback
+once you have mustered the courage to change, you're ready for feedback
 
 
 
